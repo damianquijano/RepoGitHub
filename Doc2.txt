@@ -1,1 +1,2 @@
 Adiós mundo cruel. Este archivo nuevo va en commit 2.
+Modificamos Doc2.txt. Commit 6.
