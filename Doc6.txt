@@ -2,4 +2,5 @@ Agregué nuevo archivo Doc6.txt commit 19
 Modificación desde Doc6.txt commit 20
 Modificación desde Doc6.txt commit 21- Ahora si que saldrá todo ok coño!.
 Modificación desde Doc6.txt commit 22- No salió el 21 carajo, vamos a ver ahora.
+Modificación desde Doc6.txt commit 23.
 
