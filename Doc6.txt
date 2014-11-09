@@ -1,2 +1,3 @@
 Agregué nuevo archivo Doc6.txt commit 19
 Modificación desde Doc6.txt commit 20
+Modificación desde Doc6.txt commit 20- Ahora si que saldrá todo ok coño!.
