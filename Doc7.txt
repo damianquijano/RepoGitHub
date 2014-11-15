@@ -1,4 +1,5 @@
 Agregué nuevo archivo Doc7.txt commit 24
 Modifico el doc Doc7.txt, este es mi commit 25.
 El commit 24 resultó al fin ok.
+Modificación simultánea : Master
 
