@@ -4,3 +4,5 @@ El commit 24 resultó al fin ok.
 Modificación simultánea : Master
 Modificaciones nuevas 7 jul 2015
 
+Este es un cambio el 25 mayo 2017.
+
